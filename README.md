@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Kenji Nakamura</h1>
-I am a senior full-stack web developer who loves edge technology.⚡
-<br>Currently I have rich experience with React, Node, Python, Django and etc.🚀
+I am a senior blockchain and full-stack web developer who loves edge technology.⚡
+<br>Currently I have rich experience in smart contract, dApp, front-end and back-end.🚀
 <br>
 
 - 🔭 I’m currently working on **Blockchain with Ethereum**
