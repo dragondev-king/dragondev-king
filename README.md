@@ -3,11 +3,11 @@ I am a senior full-stack web developer who loves edge technology.⚡
 <br>Currently I have rich experience with React, Node, Python, Django and etc.🚀
 <br>
 
-- 🔭 I’m currently working on **React, Node, Django**
+- 🔭 I’m currently working on **Blockchain with Ethereum**
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’ve rich experience in **Web Development** as a **Full-Stack developer**
 
-- 🤝 I’m looking for help with **Blockchain developer**
+- 🤝 I’m looking for a job with **Blockchain | Full-Stack**
 
 
 <br>
