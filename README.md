@@ -10,6 +10,7 @@ I am a senior blockchain and full-stack web developer who loves edge technology.
 
 <br>
 ## Skill Set
+
  * JavaScript, HTML, CSS/SCSS/SASS, TypeScript, React, Vue, Angular, Redux, Vuex, Next, Nuxt, Bootstrap
 
  * PHP, Node, Express, Python/Django, Ruby on Rails
