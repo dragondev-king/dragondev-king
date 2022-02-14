@@ -7,12 +7,15 @@ I am a senior blockchain and full-stack web developer who loves edge technology.
 
 - 🌱 I’ve rich experience in **Web Development** as a **Full-Stack developer**
 
-- 🤝 I’m looking for a job with **Blockchain | Full-Stack** developers
-
 
 <br>
 ## Skill Set
-<table>
+ * JavaScript, HTML, CSS/SCSS/SASS, TypeScript, React, Vue, Angular, Redux, Vuex, Next, Nuxt, Bootstrap, 
+ * PHP, Node, Express, Python/Django, Ruby on Rails
+ * Solidity, Ethereum, Truffle, Hardhat, Layer2, Ether.js, Web3.js
+ * MySQL, PostgreSQL, SQLite, Oracle, MongoDB, Firebase, DnamoDB, HBase
+ * Nginx, Docker, CI/CD, Git, AWS, GCP, Azure
+<!-- <table>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/nginx-4-1174926.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="100"></td>
@@ -32,6 +35,6 @@ I am a senior blockchain and full-stack web developer who loves edge technology.
       <td><img src="https://cdn.iconscout.com/icon/free/png-64/pycharm-1175008.png" width="100"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" width="100"></td>
    </tr>
-  </table>
+  </table> -->
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" />
  
