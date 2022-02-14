@@ -7,7 +7,7 @@ I am a senior blockchain and full-stack web developer who loves edge technology.
 
 - 🌱 I’ve rich experience in **Web Development** as a **Full-Stack developer**
 
-- 🤝 I’m looking for a job with **Blockchain | Full-Stack**
+- 🤝 I’m looking for a job with **Blockchain | Full-Stack** developers
 
 
 <br>
