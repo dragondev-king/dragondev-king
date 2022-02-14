@@ -10,10 +10,14 @@ I am a senior blockchain and full-stack web developer who loves edge technology.
 
 <br>
 ## Skill Set
- * JavaScript, HTML, CSS/SCSS/SASS, TypeScript, React, Vue, Angular, Redux, Vuex, Next, Nuxt, Bootstrap, 
+ * JavaScript, HTML, CSS/SCSS/SASS, TypeScript, React, Vue, Angular, Redux, Vuex, Next, Nuxt, Bootstrap
+
  * PHP, Node, Express, Python/Django, Ruby on Rails
+ 
  * Solidity, Ethereum, Truffle, Hardhat, Layer2, Ether.js, Web3.js
+ 
  * MySQL, PostgreSQL, SQLite, Oracle, MongoDB, Firebase, DnamoDB, HBase
+ 
  * Nginx, Docker, CI/CD, Git, AWS, GCP, Azure
 <!-- <table>
   <tr>
