@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Kenji Nakamura</h1>
-I am a senior blockchain and full-stack developer who loves edge technology.⚡
-<br>Currently I have rich experience in smart contract, dApp, front-end and back-end.🚀
+I am a senior full-stack developer who loves edge technology.⚡
+<br>Currently I have rich experience in dApp, front-end and back-end.🚀
 <br>
 
 <br>
@@ -10,7 +10,7 @@ I am a senior blockchain and full-stack developer who loves edge technology.⚡
 
  * PHP, Node, Express, Python/Django, Ruby on Rails
  
- * Solidity, Ethereum, Truffle, Hardhat, Layer2, Ether.js, Web3.js
+ * Ether.js, Web3.js
  
  * MySQL, PostgreSQL, SQLite, Oracle, MongoDB, Firebase, DnamoDB, HBase
  
