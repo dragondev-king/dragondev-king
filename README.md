@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Kenji Nakamura</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
 I am a senior full-stack developer who loves edge technology.⚡
 <br>Currently I have rich experience in dApp, front-end and back-end.🚀
 <br>
@@ -6,11 +6,11 @@ I am a senior full-stack developer who loves edge technology.⚡
 <br>
 ## Skill Set
 
- * JavaScript, HTML, CSS/SCSS/SASS, TypeScript, React, Vue, Angular, Redux, Vuex, Next, Nuxt, Bootstrap
+ * JavaScript, HTML, CSS/SCSS/SASS, TypeScript, React, Vue, Angular, Redux, Vuex, Next, Nuxt, Bootstrap, MUI, 
 
  * PHP, Node, Express, Python/Django, Ruby on Rails
  
- * Ether.js, Web3.js
+ * Ether.js, Web3.js, Moralis, Infura, Truffle, Hardhat, Ethereum, Solidity
  
  * MySQL, PostgreSQL, SQLite, Oracle, MongoDB, Firebase, DnamoDB, HBase
  
