@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
-I am a senior full-stack developer who loves edge technology.⚡
+I am a full-stack developer who loves edge technology.⚡
 <br>Currently I have rich experience in dApp, front-end and back-end.🚀
 <br>
 
